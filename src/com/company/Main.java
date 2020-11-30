@@ -9,7 +9,7 @@ public class Main {
         HavingSuperAbility[] HavingSuperAbilitys = {Magic, new Medic(), new Warrior()};
 
         for (int i = 0; i < HavingSuperAbilitys.length; i++) {
-            HavingSuperAbilitys[i].applySuperAbility(" ");
+            HavingSuperAbilitys[i].applySuperAbility("  ");
 
         }
     }
